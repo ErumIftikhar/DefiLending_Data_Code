@@ -42,9 +42,11 @@ FGI: Fear and Greed Index (crypto market sentiment)
 
 VIX: Volatility Index (traditional financial market sentiment)
 
+**Other Control Variables**
+
 ETH: ETH daily returns (to control for price volatility)
 
-fee: gas price on Ethereum and Arbitrum
+fee: gas price on Ethereum and Arbitrum (to control for gas price volatility)
 
 **Additional variables for robustness checks**
 
