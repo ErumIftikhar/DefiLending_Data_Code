@@ -71,5 +71,5 @@ This file contains daily active user counts and daily deposit counts for Compoun
 
 #### DefiVolume.csv ####
 
-This file contains data about the total volume of Defi market as measured in USD. (Data Source: DefiLamma).
+This file contains data about the total volume of Defi market as measured in USD. (**Data Source: DefiLamma**).
 
